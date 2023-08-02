@@ -7,8 +7,8 @@
 // @match        https://*.mngkargo.com.tr/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mngkargo.com.tr
 // @grant        none
-// @downloadURL  https://github.com/omurcankaya/mngkargo-captcha-bypasser/raw/main/src/mngkargo.captchasolver.js
-// @updateURL    https://github.com/omurcankaya/mngkargo-captcha-bypasser/raw/main/src/mngkargo.captchasolver.js
+// @downloadURL  https://github.com/omurcankaya/mngkargo-captcha-bypasser/raw/main/src/mngkargo.captchasolver.user.js
+// @updateURL    https://github.com/omurcankaya/mngkargo-captcha-bypasser/raw/main/src/mngkargo.captchasolver.user.js
 // ==/UserScript==
 const getCaptcha = () => {
     if (document.getElementById('captcha1')) {
