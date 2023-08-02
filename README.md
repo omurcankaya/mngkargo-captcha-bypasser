@@ -5,7 +5,7 @@ This script is designed to bypass captcha challenges on the MNG Kargo website. I
 
 ## How to add to tampermonkey?
 
-**[Click here](https://github.com/omurcankaya/mngkargo-captcha-bypasser/raw/main/src/mngkargo.captchasolver.js)**
+**[Click here](https://github.com/omurcankaya/mngkargo-captcha-bypasser/raw/main/src/mngkargo.captchasolver.user.js)**
 
 ## Disclaimer
 
