@@ -3,6 +3,8 @@
 *It automatically fills the captcha input box, it doesn't solve anything.\
 This script is designed to bypass captcha challenges on the MNG Kargo website. It is intended for educational purposes only.*
 
+[Watch on Youtube](https://youtu.be/-YWtLK6aPHA)
+
 ## How to add to tampermonkey?
 
 **[Click here](https://github.com/omurcankaya/mngkargo-captcha-bypasser/raw/main/src/mngkargo.captchasolver.user.js)**
