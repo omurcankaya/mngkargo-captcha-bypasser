@@ -21,7 +21,7 @@ const getCaptcha = () => {
 }
 
 getCaptcha();
-if (document.getElementById('captcha2')) {
+if (document.getElementById('captcha1')) {
     document.getElementById('captcha1').children[2].addEventListener('click', getCaptcha);
 }
 if (document.getElementById('captcha2')) {
